@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.114.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.113.0...v2.114.0) (2026-10-07)
+
+
+### Features
+
+* **Nutrition:** keep unit empty for empty-unit nutrients ([#14844](https://github.com/openfoodfacts/openfoodfacts-server/issues/14844)) ([29c3415](https://github.com/openfoodfacts/openfoodfacts-server/commit/29c3415e156df07a818f5c8a02b3fc27a0205476))
+
 ## [2.113.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.112.0...v2.113.0) (2026-10-06)
 
 

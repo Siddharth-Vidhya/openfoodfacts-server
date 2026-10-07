@@ -6,35 +6,35 @@
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.26
             },
             "vitamin-a" : {
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "µg",
                "value" : 1.2e-05
             },
             "vitamin-b1" : {
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.0012
             },
             "vitamin-d" : {
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "µg",
                "value" : 4e-06
             },
             "vitamin-e" : {
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.0266666666666667
             }
          },

@@ -6,7 +6,7 @@
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "serving",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.118
             },
             "energy" : {
@@ -39,7 +39,7 @@
             "last_updated_t" : "--ignore--",
             "nutrients" : {
                "calcium" : {
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.295,
                   "value_string" : "0.295"
                },

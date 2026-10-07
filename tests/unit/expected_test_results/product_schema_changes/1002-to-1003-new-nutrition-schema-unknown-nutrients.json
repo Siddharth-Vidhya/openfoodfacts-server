@@ -7,14 +7,14 @@
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100ml",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.38
             },
             "sulphate" : {
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100ml",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.0141
             }
          },
@@ -26,12 +26,12 @@
             "last_updated_t" : "--ignore--",
             "nutrients" : {
                "nitrate" : {
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.38,
                   "value_string" : "0.38"
                },
                "sulphate" : {
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.0141,
                   "value_string" : "0.0141"
                }

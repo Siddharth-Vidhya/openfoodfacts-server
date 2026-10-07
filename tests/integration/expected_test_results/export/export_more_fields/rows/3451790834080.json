@@ -315,7 +315,7 @@
    "nutrition.input_sets.packaging.as_sold.100g.nutrients.fiber.unit" : "g",
    "nutrition.input_sets.packaging.as_sold.100g.nutrients.fiber.value" : "0",
    "nutrition.input_sets.packaging.as_sold.100g.nutrients.fiber.value_string" : "0",
-   "nutrition.input_sets.packaging.as_sold.100g.nutrients.iron.unit" : "g",
+   "nutrition.input_sets.packaging.as_sold.100g.nutrients.iron.unit" : "mg",
    "nutrition.input_sets.packaging.as_sold.100g.nutrients.iron.value" : "21875",
    "nutrition.input_sets.packaging.as_sold.100g.nutrients.iron.value_string" : "21875",
    "nutrition.input_sets.packaging.as_sold.100g.nutrients.manganese.unit" : "",

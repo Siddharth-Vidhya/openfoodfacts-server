@@ -6,7 +6,7 @@
                "source" : "packaging",
                "source_index" : 3,
                "source_per" : "serving",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.1
             },
             "salt" : {

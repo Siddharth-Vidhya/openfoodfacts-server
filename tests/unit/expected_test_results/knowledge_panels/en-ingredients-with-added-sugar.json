@@ -1781,7 +1781,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.00992666666666667
             },
             "capric-acid" : {
@@ -1821,7 +1821,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.00943333333333333
             },
             "cholesterol" : {
@@ -1829,7 +1829,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.0363333333333333
             },
             "copper" : {
@@ -1837,7 +1837,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 5.46666666666667e-05
             },
             "crude-ash" : {
@@ -1952,7 +1952,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "µg",
                "value" : 2.11666666666667e-06
             },
             "iron" : {
@@ -1960,7 +1960,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.000422333333333333
             },
             "lactose" : {
@@ -1992,7 +1992,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.0136083333333333
             },
             "maltose" : {
@@ -2008,7 +2008,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.000371166666666667
             },
             "monounsaturated-fat" : {
@@ -2048,7 +2048,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 9.83333333333333e-05
             },
             "phosphorus" : {
@@ -2056,7 +2056,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.0406666666666667
             },
             "phylloquinone" : {
@@ -2088,7 +2088,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.0603333333333333
             },
             "proteins" : {
@@ -2121,7 +2121,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "µg",
                "value" : 5.83333333333333e-06
             },
             "sodium" : {
@@ -2170,7 +2170,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "µg",
                "value" : 0.0001125
             },
             "vitamin-b1" : {
@@ -2178,7 +2178,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 4.43333333333333e-05
             },
             "vitamin-b12" : {
@@ -2186,7 +2186,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "µg",
                "value" : 2.83333333333333e-08
             },
             "vitamin-b2" : {
@@ -2194,7 +2194,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 1.93333333333333e-05
             },
             "vitamin-b6" : {
@@ -2202,7 +2202,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 1.89166666666667e-05
             },
             "vitamin-b9" : {
@@ -2210,7 +2210,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "µg",
                "value" : 4.78333333333333e-06
             },
             "vitamin-c" : {
@@ -2218,7 +2218,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 4.16666666666667e-05
             },
             "vitamin-d" : {
@@ -2226,7 +2226,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "µg",
                "value" : 2.08333333333333e-07
             },
             "vitamin-e" : {
@@ -2234,7 +2234,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.000483333333333333
             },
             "vitamin-pp" : {
@@ -2242,7 +2242,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 2.01666666666667e-05
             },
             "water" : {
@@ -2258,7 +2258,7 @@
                "source" : "estimate",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.000343833333333333
             }
          },
@@ -2306,7 +2306,7 @@
                },
                "calcium" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.00992666666666667,
                   "value_string" : "0.00992666666666667"
                },
@@ -2336,19 +2336,19 @@
                },
                "chloride" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.00943333333333333,
                   "value_string" : "0.00943333333333333"
                },
                "cholesterol" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.0363333333333333,
                   "value_string" : "0.0363333333333333"
                },
                "copper" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 5.46666666666667e-05,
                   "value_string" : "5.46666666666667e-05"
                },
@@ -2434,13 +2434,13 @@
                },
                "iodine" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "µg",
                   "value" : 2.11666666666667e-06,
                   "value_string" : "2.11666666666667e-06"
                },
                "iron" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.000422333333333333,
                   "value_string" : "0.000422333333333333"
                },
@@ -2464,7 +2464,7 @@
                },
                "magnesium" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.0136083333333333,
                   "value_string" : "0.0136083333333333"
                },
@@ -2476,7 +2476,7 @@
                },
                "manganese" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.000371166666666667,
                   "value_string" : "0.000371166666666667"
                },
@@ -2506,13 +2506,13 @@
                },
                "pantothenic-acid" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 9.83333333333333e-05,
                   "value_string" : "9.83333333333333e-05"
                },
                "phosphorus" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.0406666666666667,
                   "value_string" : "0.0406666666666667"
                },
@@ -2536,7 +2536,7 @@
                },
                "potassium" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.0603333333333333,
                   "value_string" : "0.0603333333333333"
                },
@@ -2561,7 +2561,7 @@
                },
                "selenium" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "µg",
                   "value" : 5.83333333333333e-06,
                   "value_string" : "5.83333333333333e-06"
                },
@@ -2598,61 +2598,61 @@
                },
                "vitamin-a" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "µg",
                   "value" : 0.0001125,
                   "value_string" : "0.0001125"
                },
                "vitamin-b1" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 4.43333333333333e-05,
                   "value_string" : "4.43333333333333e-05"
                },
                "vitamin-b12" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "µg",
                   "value" : 2.83333333333333e-08,
                   "value_string" : "2.83333333333333e-08"
                },
                "vitamin-b2" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 1.93333333333333e-05,
                   "value_string" : "1.93333333333333e-05"
                },
                "vitamin-b6" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 1.89166666666667e-05,
                   "value_string" : "1.89166666666667e-05"
                },
                "vitamin-b9" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "µg",
                   "value" : 4.78333333333333e-06,
                   "value_string" : "4.78333333333333e-06"
                },
                "vitamin-c" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 4.16666666666667e-05,
                   "value_string" : "4.16666666666667e-05"
                },
                "vitamin-d" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "µg",
                   "value" : 2.08333333333333e-07,
                   "value_string" : "2.08333333333333e-07"
                },
                "vitamin-e" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.000483333333333333,
                   "value_string" : "0.000483333333333333"
                },
                "vitamin-pp" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 2.01666666666667e-05,
                   "value_string" : "2.01666666666667e-05"
                },
@@ -2664,7 +2664,7 @@
                },
                "zinc" : {
                   "modifier" : "~",
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.000343833333333333,
                   "value_string" : "0.000343833333333333"
                }

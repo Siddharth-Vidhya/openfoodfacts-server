@@ -501,8 +501,8 @@
                   "source" : "packaging",
                   "source_index" : 0,
                   "source_per" : "1kg",
-                  "unit" : "g",
-                  "value" : 5e-06
+                  "unit" : "µg",
+                  "value" : 5.0
                }
             },
             "per" : "100g",

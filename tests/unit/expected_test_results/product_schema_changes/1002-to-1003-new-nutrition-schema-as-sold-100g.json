@@ -6,7 +6,7 @@
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.118
             },
             "carbohydrates" : {
@@ -91,14 +91,14 @@
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "mg",
                "value" : 0.011
             },
             "vitamin-d" : {
                "source" : "packaging",
                "source_index" : 0,
                "source_per" : "100g",
-               "unit" : "g",
+               "unit" : "µg",
                "value" : 7.3e-07
             }
          },
@@ -110,7 +110,7 @@
             "last_updated_t" : "--ignore--",
             "nutrients" : {
                "calcium" : {
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.118,
                   "value_string" : "0.118"
                },
@@ -166,12 +166,12 @@
                   "value_string" : "9.5"
                },
                "vitamin-c" : {
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.011,
                   "value_string" : "0.011"
                },
                "vitamin-d" : {
-                  "unit" : "g",
+                  "unit" : "µg",
                   "value" : 7.3e-07,
                   "value_string" : "7.3e-07"
                }
@@ -242,12 +242,12 @@
                   "value_string" : "75.1"
                },
                "vitamin-c" : {
-                  "unit" : "g",
+                  "unit" : "mg",
                   "value" : 0.15,
                   "value_string" : "0.15"
                },
                "vitamin-d" : {
-                  "unit" : "g",
+                  "unit" : "µg",
                   "value" : 1.1e-05,
                   "value_string" : "1.1e-05"
                }

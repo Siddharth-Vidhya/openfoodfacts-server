@@ -30,7 +30,9 @@
          "packaging" : "0.00"
       }
    },
-   "data_quality_errors_tags" : [],
+   "data_quality_errors_tags" : [
+      "en:nutrition-producer-as-sold-100g-value-over-105-vitamin-b12"
+   ],
    "data_quality_info_tags" : [
       "en:no-packaging-data",
       "en:food-groups-1-unknown",
@@ -56,7 +58,8 @@
       "en:no-packaging-data",
       "en:food-groups-1-unknown",
       "en:food-groups-2-unknown",
-      "en:food-groups-3-unknown"
+      "en:food-groups-3-unknown",
+      "en:nutrition-producer-as-sold-100g-value-over-105-vitamin-b12"
    ],
    "data_quality_warnings_tags" : [],
    "images" : {
